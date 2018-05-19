@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArrkAndroidTest</string>
+    <string name="people_list_header">List of Characters in Star War</string>
+    <string name="people_detail_header">Details</string>
+</resources>
